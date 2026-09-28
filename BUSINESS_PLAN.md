@@ -2,6 +2,11 @@
 
 Colorado City, Arizona (Mohave County)
 
+**Downstairs neighbor:** Sweet Sage Coffee Co., 15 N Central St, Suite A,
+Colorado City, AZ 86021 · (928) 272-4533 · sweetsagecoffee.com. It serves
+espresso, smoothies, crêpes, and breakfast, and sells its own roasted beans. It
+is open **Mon–Sat 7am–3pm and Sun 8am–3pm** (from public listings, [VERIFY]).
+
 > **Status:** Draft. Anything marked **[VERIFY]** has to be confirmed with the
 > landlord, the Town of Colorado City, or the state agency named before you
 > spend money.
@@ -125,9 +130,18 @@ A typical layout:
 
 Put this in writing with the café owner:
 - **Catering menu** for Loft events, with a revenue split or referral fee.
+  Sweet Sage closes at 3pm, so most evening and weekend events would need
+  **pre-ordered trays picked up before close** (drinks, pastries, crêpe or
+  breakfast-burrito bars). A paid after-hours catering option is another choice
+  if the café wants the extra business.
+- **Bags of Sweet Sage beans** as coworking perks, party favors, or sold at the
+  Loft.
 - **Coffee perk** for coworking members, billed to the Loft at a wholesale rate.
 - **Cross-promotion:** a sign or menu board downstairs, and a QR code on café
   tables that links to booking.
+- **Hours overlap is small:** the café closes at 3pm, and Loft events mostly
+  run after that, so noise conflicts mainly affect daytime coworking and
+  classes. Parking is free for evening events.
 - **Shared rules:** quiet hours when the café is busy, trash and restroom use,
   and who handles problems with renters.
 - **Sweet Sage's own use:** the café can book the room for its own events
@@ -246,7 +260,9 @@ rent. Before signing, confirm that you can realistically reach that.
   before and after.
 - **Staffing:** start owner-operated with self-check-in by keypad. Add a
   part-time event host once you have more than 10 events a month.
-- **Hours:** coworking weekdays 8am–5pm. Events by booking, ending by 10pm.
+- **Hours:** coworking weekdays 7am–5pm, opening with the café so members can
+  grab coffee on the way up. Events by booking, ending by 10pm, and mostly
+  after the café closes at 3pm.
 
 ---
 
