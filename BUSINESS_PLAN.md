@@ -65,9 +65,39 @@ beans. It is open **Mon–Sat 7am–3pm and Sun 8am–3pm** (from public listing
 | **Lounge** | Armchairs, a couch, and 1–2 tables by the windows (to use the views) | Center and windows |
 | **Computer station** *(if it fits)* | 4 computers, 1 printer/scanner/copier | About 8×10 ft along one wall |
 
-**If the room is small (under about 400 sq ft):** start with books, coffee, and
-the lounge. Begin with **2 computers**, and add more once memberships justify
-them.
+### How much space the full concept needs
+
+The full concept is wraparound wall shelving, couches and chairs, a few tables,
+a few desks, a coffee bar, and checkout. Rough space needs:
+
+| Zone | What's in it | Floor space |
+|---|---|---|
+| Wraparound wall shelving | 12-inch-deep shelves on every open wall, plus a 3-ft walkway in front | Uses the room's edges. About 60 ft of wall holds 3,000+ books |
+| Lounge | 1–2 couches, 3–4 armchairs, coffee and side tables | 150–200 sq ft |
+| Tables | 3 tables with 2–4 chairs each | 100–120 sq ft |
+| Desks and computers | 3–4 desks with chairs, printer | 100–130 sq ft |
+| Coffee bar and checkout | 6–8 ft counter, snack rack, fridge | 50–60 sq ft |
+| Walkways between zones | About 25% on top | 100–130 sq ft |
+| **Total** | | **Tight: about 550–600 sq ft. Comfortable: about 750–900 sq ft** |
+
+A typical single office is 150–300 sq ft, so **the listed space is probably too
+small for the full concept.** Options, in order:
+
+1. **Ask the landlord for more of the upstairs.** Is there another room, the
+   rest of the second floor, or a wall that could come down between two rooms?
+   Renting two adjoining rooms often costs less per foot.
+2. **Look for a bigger space nearby,** ideally still next to or above Sweet
+   Sage, or on Central St or SR-389 near other traffic. The coffee partnership
+   works best within walking distance of the café, and it still works a block
+   or two away.
+3. **Start small, in phases,** if the space is about 300–500 sq ft:
+   - Wall shelving and books, 1 couch plus 2 armchairs, 1 table, 2 desks and
+     the printer, and the coffee bar.
+   - Add more once memberships prove demand and you move or expand.
+
+**If the room is under about 300 sq ft,** it doesn't work as a bookstore and
+lounge. At most it's a stockroom and office for online book sales until a bigger
+space opens up.
 
 ---
 
@@ -324,8 +354,11 @@ of the monthly fixed costs.
 ## 13. Questions to Answer First
 
 **Landlord:**
-- [ ] Square footage and layout. Is there a restroom and a sink upstairs? How do
-      you get in (stairs, street door)?
+- [ ] **Exact square footage** (the full concept needs about 750–900 sq ft, see
+      §2). Is **more of the upstairs** available: a second room, the whole
+      floor, or a removable wall?
+- [ ] Layout. Is there a restroom and a sink upstairs? How do you get in
+      (stairs, street door)?
 - [ ] Are utilities and internet included in the $450? What's the deposit?
 - [ ] Is **retail, coffee service, and 24/7 key-code access** allowed? Can you
       install a smart lock and cameras?
