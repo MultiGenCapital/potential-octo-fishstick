@@ -7,6 +7,16 @@ Colorado City, AZ 86021 · (928) 272-4533 · sweetsagecoffee.com. It serves
 espresso, smoothies, crêpes, and breakfast, and sells its own roasted beans. It
 is open **Mon–Sat 7am–3pm and Sun 8am–3pm** (from public listings, [VERIFY]).
 
+**The space (from the Facebook Marketplace listing, Sept 2026):**
+- **Rent: $450/month.** A 1-year lease is preferred, but the landlord is "open
+  to other ideas."
+- Listed as **office space**, furnished with a desk and file cabinet.
+- Has parking, AC and heating, and mountain views from the upstairs windows.
+- The landlord suggests it for "an artist's studio or an office for your startup
+  company."
+- **Not in the listing [VERIFY]:** square footage, whether utilities and
+  internet are included, restrooms, and the stairs and entrance.
+
 > **Status:** Draft. Anything marked **[VERIFY]** has to be confirmed with the
 > landlord, the Town of Colorado City, or the state agency named before you
 > spend money.
@@ -16,6 +26,17 @@ is open **Mon–Sat 7am–3pm and Sun 8am–3pm** (from public listings, [VERIFY
 ## 1. Summary
 
 **Recommendation: open a flexible rental space, "The Loft at Sweet Sage."**
+
+> **Size decides the version.** The listing calls it *office space*, so it may
+> be one or two rooms rather than a large hall. Measure it first:
+> - **About 500 sq ft or more:** the full plan below (events, classes, and
+>   coworking).
+> - **Smaller:** start with **"Loft Lite"**: 2–4 coworking desks, a bookable
+>   meeting and small-class room (about 8–15 people: tutoring, sewing, art,
+>   small workshops), and a creator or photo studio by the hour. Skip big
+>   parties.
+>
+> At $450/month, either version can break even with light use (§9).
 
 - **Weekdays:** coworking desks, a bookable meeting room, and space for
   tutoring and small classes.
@@ -185,7 +206,7 @@ gatherings of up to 49 people and for coworking?"*
 | Item | Low | High |
 |---|---|---|
 | LLC, licenses, and permits | $200 | $800 |
-| First month's rent and security deposit | *[landlord quote]* | *[landlord quote]* |
+| First month's rent ($450) and security deposit [VERIFY deposit] | $900 | $1,350 |
 | Light remodel: paint, lighting, flooring touch-up | $1,000 | $6,000 |
 | Fire/life-safety items (exit signs, extinguishers, emergency lights) | $300 | $1,500 |
 | Tables (10–12 folding/nesting) | $600 | $2,000 |
@@ -199,22 +220,22 @@ gatherings of up to 49 people and for coworking?"*
 | Website, booking software (first year), photos | $200 | $1,000 |
 | Insurance (first payment) | $300 | $1,000 |
 | Cash reserve (3 months of fixed costs) | $3,000 | $6,000 |
-| **Total, excluding rent** | **≈ $9,000** | **≈ $31,500** |
+| **Total** | **≈ $10,000** | **≈ $33,000** |
 
 ---
 
-## 9. Monthly Numbers (example to replace with real quotes)
+## 9. Monthly Numbers (rent from the listing; other costs estimated)
 
 **Fixed costs (example):**
 
 | Item | Monthly |
 |---|---|
-| Rent (placeholder) | $800 |
-| Utilities and internet | $250 |
+| Rent (from the listing) | $450 |
+| Utilities and internet (may be partly included in rent [VERIFY]) | $250 |
 | Insurance | $80 |
 | Booking software, phone, subscriptions | $60 |
 | Cleaning supplies and restocking | $100 |
-| **Total** | **≈ $1,290** |
+| **Total** | **≈ $940** |
 
 **Revenue scenarios:**
 
@@ -225,10 +246,16 @@ gatherings of up to 49 people and for coworking?"*
 | Coworking members at $100 | 2 → $200 | 5 → $500 | 10 → $1,000 |
 | Day passes at $12 | 10 → $120 | 25 → $300 | 40 → $480 |
 | **Monthly revenue** | **$1,470** | **$3,250** | **$5,730** |
-| **After fixed costs** | **≈ $180** | **≈ $1,960** | **≈ $4,440** |
+| **After fixed costs** | **≈ $530** | **≈ $2,310** | **≈ $4,790** |
 
-**Break-even:** about **5 events plus 15 rental hours a month**, at the example
-rent. Before signing, confirm that you can realistically reach that.
+**Break-even:** about **$940 a month**. For example, 4 events plus 8 rental
+hours, or, in the Loft Lite version with no events, 4 coworking members plus
+about 18 rental hours. Even the slow scenario covers costs.
+
+**"Loft Lite" scenario (a small room, no big parties):** 4 members ($400), 15
+day passes ($180), and 30 hours of class and meeting rentals at $25 ($750) come
+to **≈ $1,330 a month, about $390 above costs**. That leaves a thin but low-risk
+margin that grows as regular renters come in.
 
 ---
 
@@ -282,8 +309,9 @@ rent. Before signing, confirm that you can realistically reach that.
 
 ## 13. Questions to Answer First
 
-- [ ] Square footage, layout, and number of stairways and exits upstairs
-- [ ] Rent, lease length, who pays for utilities, and whether the landlord pays for improvements
+- [ ] **Square footage** (this decides the full Loft or Loft Lite), layout, and number of stairways and exits upstairs
+- [ ] Rent is $450. Also: the deposit, whether utilities and internet are included, whether the landlord allows **hourly rentals, classes, and events** (not just one office tenant), whether subleasing is allowed, and whether the furniture stays
+- [ ] Ask whether the landlord would allow a 6-month trial lease with an option to renew (the listing says "open to other ideas")
 - [ ] Restrooms upstairs, or shared with Sweet Sage?
 - [ ] Current approved use of the space, and what the town requires for assembly use (§7)
 - [ ] Sound between floors (test with music playing while someone listens in the café)
