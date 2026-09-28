@@ -122,13 +122,57 @@ business with little walk-in traffic.
 
 ## 4. Hours and Operations
 
-- **Staffed service hours** (suggested start): **Mon–Fri 11am–7pm, Sat
-  10am–2pm.** Adjust these to your availability and what customers ask for.
-  11am–7pm catches lunch breaks and after-work errands.
+- **Staffed service hours:** two part-time employees split the shifts, and
+  hours grow in phases as sales grow (see *Staffing* below).
 - **Members:** 24/7 with a key code.
 - **Unstaffed times:** members can use a **self-serve print release** (a card or
   PIN at the copier), which counts their free pages and charges extras
   automatically.
+
+### Staffing: two part-timers splitting shifts
+
+Staff are the biggest cost, so the business is built to run **mostly
+self-serve.** Members come in on their own, and walk-ins print at a card-reader
+copier. Staff hours are for services that need a person: notary, passport
+photos, résumés and design, and help at the counter.
+
+**Cost per staffed hour: about $17.** That's about $15/hr pay (near Arizona's
+2026 minimum wage [VERIFY the current rate]) plus about 12% for payroll taxes and
+workers' comp. A payroll service (about $40–50/month) handles paychecks and tax
+filings.
+
+| Phase | Staffed hours | Person A | Person B | Hrs/week | Staff cost/month |
+|---|---|---|---|---|---|
+| **1. Launch** | Tue & Thu 3–7pm, Sat 10am–2pm | Tue 3–7, plus every other Sat | Thu 3–7, plus every other Sat | 12 (about 6 each) | **≈ $930** |
+| **2. Growing** | Mon–Fri 3–7pm, Sat 10am–2pm | Mon, Wed, Fri 3–7 | Tue, Thu 3–7, plus Sat 10–2 | 24 (12 each) | **≈ $1,810** |
+| **3. Established** | Mon–Fri 11am–7pm, Sat 10am–2pm | Mon–Fri 11–3, or alternating days | Mon–Fri 3–7, plus Sat | 44 (about 22 each) | **≈ $3,280** |
+
+**When to add hours:** move to Phase 2 once gross profit stays above about
+**$3,000 a month for 2 months in a row**, and to Phase 3 above about **$4,500**.
+Before then, adding hours costs more than it brings in.
+
+**Why 3–7pm to start:** it's right after Sweet Sage closes and after work and
+school, when people run errands. **Notary and passport photos can also be booked
+by appointment** outside shifts, so no customer is turned away.
+
+**Making the two-person setup work:**
+- **Both get an Arizona notary commission** (the business pays, about $100–200
+  each), so every shift can notarize. Notary fees are the service people most
+  need a person for.
+- **Pay per job for appointments outside shifts,** for example $10 plus half the
+  service fee for a notary appointment or passport photo. That's fair to them and
+  costs nothing when it's slow.
+- **One shared checklist** for opening, closing, the notary journal, and
+  deleting customer files, so both run the counter the same way.
+- **One shared calendar** (Square Appointments or Google Calendar) for shifts
+  and bookings, so customers can book whoever is on.
+- **Trade shifts** when one of them is out. Two people means you rarely have to
+  close.
+- If **you cover some shifts yourself** at first, the staff cost drops by about
+  $17 for each hour you work.
+- **Arizona employer basics:** workers' comp insurance, new-hire reporting, and
+  paid sick time. Arizona's earned sick time law applies to all employers
+  **[VERIFY details with the Industrial Commission of Arizona]**.
 
 ### Running 24/7 access safely
 - A **smart lock with individual codes** (for example Schlage Encode, Latch, or
@@ -198,7 +242,7 @@ partnership is all cross-promotion:
 |---|---|---|
 | First month's rent ($450) and deposit | $900 | $1,350 |
 | LLC, TPT, town license | $200 | $600 |
-| Notary commission, bond, stamp, journal | $100 | $200 |
+| Notary commissions for both staff (bond, stamp, journal) | $200 | $400 |
 | Desks and chairs, 3–4 extra (one desk comes with the space) | $600 | $2,000 |
 | Copier: lease setup or a used purchase | $300 | $3,000 |
 | Photo printer (for passport photos) | $150 | $400 |
@@ -211,8 +255,8 @@ partnership is all cross-promotion:
 | Signs: sidewalk A-frame, window lettering, café sign | $200 | $800 |
 | Website with an upload form, Google profile | $100 | $500 |
 | Insurance (first payment) | $300 | $900 |
-| Cash reserve (3 months of fixed costs) | $2,700 | $5,400 |
-| **Total** | **≈ $7,000** | **≈ $20,500** |
+| Cash reserve (3 months of fixed costs plus Phase 1 staff) | $5,500 | $8,000 |
+| **Total** | **≈ $9,900** | **≈ $23,350** |
 
 ---
 
@@ -242,11 +286,16 @@ partnership is all cross-promotion:
 | Résumés, business cards, design | $75 | $300 | $600 |
 | **Gross profit** | **$695** | **$2,280** | **$3,660** |
 | **After fixed costs** | **≈ −$205** | **≈ $1,380** | **≈ $2,760** |
+| **After Phase 1 staff (≈ $930)** | **≈ −$1,135** | **≈ $450** | **≈ $1,830** |
 
-**Break-even is about $900 a month.** For example, 8 key-code members ($600),
-about $200 of printing, and 10 notarizations ($100). Because the costs are this
-low, **presell 8–10 founding memberships before signing the lease** and the rent
-is covered from the start.
+**Break-even with Phase 1 staffing is about $1,830 a month** ($900 fixed plus
+$930 staff). For example, 12 key-code members ($900), 1 dedicated desk ($125),
+15 day passes ($150), and about $650 from printing, notary, photos, and
+résumés. The target month clears that with room to spare.
+
+**Presell 10–12 founding memberships before signing the lease.** That covers
+the rent and most of the fixed costs from the first day, and leaves service
+income to pay the staff.
 
 ---
 
