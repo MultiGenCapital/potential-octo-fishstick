@@ -1,203 +1,216 @@
-# Business Plan: The Upstairs Space Above Sweet Sage
+# Business Plan: Upstairs Bookstore & Lounge Above Sweet Sage
 
 Colorado City, Arizona (Mohave County)
 
-**Downstairs neighbor:** Sweet Sage Coffee Co., 15 N Central St, Suite A,
-Colorado City, AZ 86021 · (928) 272-4533 · sweetsagecoffee.com. It serves
-espresso, smoothies, crêpes, and breakfast, and sells its own roasted beans. It
-is open **Mon–Sat 7am–3pm and Sun 8am–3pm** (from public listings, [VERIFY]).
-
-**The space (from the Facebook Marketplace listing, Sept 2026):**
-- **Rent: $450/month.** A 1-year lease is preferred, but the landlord is "open
-  to other ideas."
-- Listed as **office space**, furnished with a desk and file cabinet.
-- Has parking, AC and heating, and mountain views from the upstairs windows.
-- The landlord suggests it for "an artist's studio or an office for your startup
-  company."
-- **Not in the listing [VERIFY]:** square footage, whether utilities and
-  internet are included, restrooms, and the stairs and entrance.
+*Working name: "The Loft at Sweet Sage." Other name ideas are in §12.*
 
 > **Status:** Draft. Anything marked **[VERIFY]** has to be confirmed with the
-> landlord, the Town of Colorado City, or the state agency named before you
-> spend money.
+> landlord, Sweet Sage, the Town of Colorado City, Mohave County, or the state
+> agency named before you spend money.
 
 ---
 
-## 1. Summary
+## 1. The Concept in One Paragraph
 
-**Recommendation: open a flexible rental space, "The Loft at Sweet Sage."**
+An upstairs **extension of Sweet Sage** that takes over when the café closes. It
+has three parts:
 
-> **Size decides the version.** The listing calls it *office space*, so it may
-> be one or two rooms rather than a large hall. Measure it first:
-> - **About 500 sq ft or more:** the full plan below (events, classes, and
->   coworking).
-> - **Smaller:** start with **"Loft Lite"**: 2–4 coworking desks, a bookable
->   meeting and small-class room (about 8–15 people: tutoring, sewing, art,
->   small workshops), and a creator or photo studio by the hour. Skip big
->   parties.
->
-> At $450/month, either version can break even with light use (§9).
+- A **used and new bookstore** for classic spiritual, personal-growth, and
+  self-help books, with a featured **MG Mindset** display.
+- A **quiet lounge** for reading, study, and work.
+- A small **computer and print station**.
 
-- **Weekdays:** coworking desks, a bookable meeting room, and space for
-  tutoring and small classes.
-- **Evenings and weekends:** private rentals for birthday parties, showers,
-  family gatherings, workshops, and club meetings.
-- **Tie-in with Sweet Sage:** customers can order coffee, pastries, and catering
-  from downstairs, and Sweet Sage can use the room for its own events.
+Staff are on site **3pm–9pm daily**. **Members** can come in **24/7 with a key
+code**. Coffee is **Sweet Sage coffee**, brewed upstairs under a written
+partnership. Snacks are **prepackaged items that don't compete with the café's
+menu**.
 
-**Why this concept:**
-1. **Low startup cost.** It needs furniture, Wi-Fi, and a booking system. It
-   doesn't need a kitchen or special equipment.
-2. **It fits the town.** Colorado City and Hildale, Utah, next door, have many
-   large, young families, and there are few places to rent for a party or
-   gathering. Remote and self-employed workers have few places to work outside
-   home.
-3. **It fits the location.** People already come to the coffee shop, so the
-   Loft gets walk-in visibility without advertising spend. Coffee is also a
-   built-in perk for renters.
-4. **It's easy to change.** If one half (events or coworking) outperforms the
-   other, you shift toward it without a rebuild.
+**Why it works:**
+1. **Open when the café is closed.** Sweet Sage closes around 3pm, and the town
+   has almost nowhere to sit, read, work, or get coffee in the evening. You take
+   over the location's evening traffic instead of competing for the morning.
+2. **Sweet Sage wins too.** The café gets a second sales channel for its coffee
+   and beans, with no extra staff, and a place to send customers after close.
+3. **Several kinds of income:** book margins, memberships (recurring), coffee
+   and snacks, and computer and print fees. No single one has to carry the rent.
+4. **Low rent ($450/month)** keeps the break-even point low (§9).
 
 ---
 
-## 2. Options Considered
+## 2. The Space
 
-| Option | Startup cost | Demand in a small town | Fit upstairs, over a café | Verdict |
-|---|---|---|---|---|
-| **Flex event + coworking room** | Low | Good: parties and gatherings are steady, and coworking adds weekday use | Strong: café traffic and catering | **Recommended** |
-| Coworking / offices only | Low | Thin: few remote workers, so it's hard to fill every day | Good | Keep it as half of the hybrid |
-| Fitness / yoga / dance studio | Medium: flooring, mirrors, sound | Moderate | **Weak:** jumping and music over a café causes noise and vibration complaints | Only with sound-isolating flooring and the landlord's approval |
-| Kids' play space / tutoring center | Medium | Good | Stairs are a problem for strollers, and child-care rules may apply | Possible later as a scheduled use of the room |
-| Retail boutique | Medium-high: inventory | Moderate | **Weak:** upstairs retail gets little walk-in traffic | Not recommended |
-| Professional office (salon, bookkeeping, insurance, etc.) | Varies | Depends on the operator | Good | A good fallback: sublease part of the space |
+**From the Facebook Marketplace listing (Sept 2026):**
+- 15 N Central St, above Sweet Sage Coffee Co. (Suite A is the café).
+- **$450/month.** A 1-year lease is preferred, but the landlord is "open to other
+  ideas."
+- Listed as **office space**, furnished with a desk and file cabinet.
+- Has parking, AC and heating, and mountain views from the upstairs windows.
+- **Not in the listing [VERIFY]:** square footage, utilities and internet,
+  restroom, stairs and street entrance, and whether the landlord allows retail,
+  food, and 24/7 access.
 
----
+**Sweet Sage Coffee Co.** (downstairs): (928) 272-4533 · sweetsagecoffee.com.
+It serves espresso, smoothies, crêpes, and breakfast, and sells its own roasted
+beans. It is open **Mon–Sat 7am–3pm and Sun 8am–3pm** (from public listings,
+[VERIFY]).
 
-## 3. Market
+### Layout (scale it to the square footage)
 
-- **Location:** Colorado City sits on State Route 389, and Hildale, Utah, is on
-  the other side of the state line. Together they have several thousand
-  residents, and the area has a young median age and large households
-  **[VERIFY with current Census data]**. St. George and Hurricane, Utah, are the
-  nearest large service centers, so many services mean a drive out of town.
-- **Visitors:** Travelers pass through on the way between the St. George/Zion
-  area and Kanab, Fredonia, and the Grand Canyon North Rim. Nearby hiking areas,
-  such as Water Canyon and Maxwell Canyon, bring outdoor visitors. The town's
-  history also draws curious visitors.
-- **Change:** New residents and new small businesses have been arriving over
-  the past decade. Local "third places" to meet, work, and celebrate are still
-  scarce.
+| Zone | What's in it | Approx. space |
+|---|---|---|
+| **Bookshelves** | Wall shelving by category (see §4), plus a "new arrivals" and staff-picks shelf | Along the walls |
+| **MG Mindset display** | Endcap or front table with MG Mindset books, near the entrance and the register | 1 table or endcap |
+| **Coffee and snack bar** | Batch brewer, airpots, cups and condiments, a small snack rack or mini fridge, Sweet Sage bean bags for sale | 6–8 ft of counter |
+| **Checkout** | Tablet POS, a buy-back counter for bringing in used books | Shares the coffee bar |
+| **Lounge** | Armchairs, a couch, and 1–2 tables by the windows (to use the views) | Center and windows |
+| **Computer station** *(if it fits)* | 4 computers, 1 printer/scanner/copier | About 8×10 ft along one wall |
 
-### Target customers
-1. **Families** with birthdays, baby and bridal showers, reunions, and holiday
-   gatherings. Big families outgrow a living room.
-2. **Community groups** such as churches, clubs, homeschool co-ops, and
-   non-profits, for meetings and classes.
-3. **Instructors** who teach art, sewing, music, languages, or tutoring and
-   need a room by the hour.
-4. **Remote workers, freelancers, and small-business owners** who need Wi-Fi,
-   a desk, or a room to meet a client.
-5. **Out-of-town organizers** holding trainings, workshops, or retreats near
-   Zion.
-
-### Competition
-Before setting prices, list what already exists: church halls, the town or
-school spaces, park pavilions, and venues in Hildale and Hurricane
-**[VERIFY]**. The Loft's advantages are that it's indoors, it's
-climate-controlled, it's available on short notice, and it has coffee and food
-downstairs.
+**If the room is small (under about 400 sq ft):** start with books, coffee, and
+the lounge. Begin with **2 computers**, and add more once memberships justify
+them.
 
 ---
 
-## 4. Offer and Pricing (starting points, to adjust to local rates)
+## 3. The Sweet Sage Partnership (coffee, snacks, and not competing)
 
-| Product | Suggested price |
+The goal is to make Sweet Sage money after it closes, and never to take its
+customers.
+
+### Coffee: three ways to set it up (pick one with the owner)
+
+| Model | How it works | Your cut | Pros and cons |
+|---|---|---|---|
+| **A. Wholesale beans** *(recommended to start)* | You buy Sweet Sage beans at a wholesale price and brew drip or pour-over upstairs. You set the price and keep the sales. | All drink sales, less beans and cups (about $0.50–0.80/cup cost) | Simplest bookkeeping. Sweet Sage earns on every bag, and its name is on every cup. You need your own food permit (§7). |
+| **B. Profit split** | Sweet Sage supplies the beans and cups. You brew and sell, then split the **net** profit (for example 50/50 or 60/40 your way) monthly. | Your share of the net | Fair when volume is uncertain, but needs careful tracking. It fits your "provide the coffee and split" idea. |
+| **C. Sweet Sage's own station** | Legally it's Sweet Sage's operation upstairs, under its permit, and you are the host. You get a commission (for example 20–30% of coffee sales) or extra rent. | Commission | Possibly the easiest permit path **[VERIFY with Mohave County]**, but Sweet Sage carries more of the responsibility. |
+
+Model A or B is probably the best place to start. Talk it through with the
+owner, and **put whichever you choose in a short written agreement.**
+
+### No-compete rules (put these in writing)
+- **Upstairs sells:** drip or pour-over Sweet Sage coffee, hot water and tea,
+  and **prepackaged snacks only** (granola bars, chips, jerky, candy, bottled
+  drinks).
+- **Upstairs does not sell:** espresso drinks, smoothies, crêpes, breakfast
+  items, or pastries, **unless they're bought from Sweet Sage** (for example,
+  day-old pastries resold with the café's approval).
+- **Before 3pm:** the upstairs coffee bar stays closed or self-serve for members
+  only, and the sign says *"Grab your drink downstairs at Sweet Sage."*
+- **Sweet Sage bean bags** are sold upstairs at the café's retail price, on
+  consignment or wholesale.
+- **Cross-promotion:** a "Books upstairs, open until 9" sign in the café, and a
+  "Coffee by Sweet Sage" sign upstairs. A shared punch card is a possibility.
+- **Shared basics:** who cleans the stairs and entrance, trash, restrooms, and
+  what happens if either business leaves.
+
+---
+
+## 4. The Bookstore
+
+### Focus
+Classic spiritual and personal-growth books, both **used and new**:
+- **Spiritual classics:** philosophy and wisdom literature, world religions,
+  meditation and contemplative works, and scripture and commentary. The local
+  community has deep religious roots, so carry a wide, respectful selection.
+- **Self-help and mindset:** personal development, habits, psychology,
+  relationships, parenting, and health.
+- **Business and money:** entrepreneurship, leadership, and personal finance.
+- **MG Mindset:** a featured display, face-out, with signage, a short "why these
+  books" card, and space for author events or reading-group picks.
+
+### Buying used books
+- **Pay 10–20% of the expected resale price in cash, or 25–35% in store
+  credit.** Store credit brings people back and protects your cash.
+- **Only buy what sells:** clean copies in the core categories. Decline
+  textbooks, stained or damaged books, and old encyclopedias.
+- **Other sources:** estate sales, library sales, thrift stores in St. George
+  and Hurricane, online lots, and donation drop-offs (offer a small credit).
+- Keep a simple **buy log** (date, seller, titles, amount paid). Arizona
+  regulates some secondhand dealers, so check whether used-book buying is
+  covered **[VERIFY]**.
+
+### Selling prices
+| Type | Typical price |
 |---|---|
-| Hourly room rental, weekday daytime | $25–35 / hr |
-| Hourly room rental, evenings and weekends (2-hr minimum) | $40–60 / hr |
-| Party package: 3 hrs, setup/cleanup, tables and chairs | $150–225 |
-| Party add-on: Sweet Sage drinks and pastry tray | Priced by Sweet Sage (see §6) |
-| Coworking day pass (includes 1 drip coffee) | $10–15 |
-| Coworking monthly membership | $75–125 |
-| Meeting room block (2 hrs) | $30–40 |
-| Recurring instructor rate (weekly slot, prepaid monthly) | 15–25% off hourly |
+| Used paperback | 40–50% of cover, often $4–9 |
+| Used hardcover or classic | $8–15 |
+| New books (from a wholesaler such as Ingram, or direct from the publisher) | Cover price. Margin is usually about 40–45% |
+| MG Mindset books | Cover price, or a member discount |
+| **Members** | 10% off all books |
 
-Also require a **refundable damage/cleaning deposit** of $50–100 for events.
+**Starting inventory:** 800–1,500 used books plus a small set of new titles is
+enough to open with full-looking shelves.
 
 ---
 
-## 5. Space Plan
+## 5. Memberships and Hours
 
-Get the square footage, and a floor plan if one exists, from the landlord.
-A typical layout:
+| Tier | Price | Includes |
+|---|---|---|
+| **Day pass** | $5–8 | Lounge and Wi-Fi until 9pm, 1 drip coffee |
+| **Standard membership** | $25–35/month | Lounge and Wi-Fi during staffed hours, 10% off books, 1 free coffee a day, 20 free prints a month |
+| **24/7 key-code membership** | $60–90/month | Everything in Standard, plus **24/7 access with a personal key code** and computer station time |
+| **Computer time (non-members)** | $3–5/hr | Computer use during staffed hours |
+| **Printing** | $0.15–0.25 per black-and-white page, $0.50–1.00 per color page | Printing, scanning, and copying |
 
-- **Main room:** folding or nesting tables and stackable chairs, so it converts
-  from a classroom to a party to coworking in about 15 minutes.
-- **Divider:** a curtain or folding wall that creates a small meeting or
-  coworking corner, so two small bookings can run at once.
-- **Storage closet** for tables, chairs, and party supplies.
-- **Kitchenette** (optional): a sink, a fridge, and counter space for staging
-  food brought up from Sweet Sage. No cooking, which keeps the permits simple.
-- **Restroom(s):** confirm whether the upstairs has its own or shares with the
-  café.
-- **Tech:** business-grade Wi-Fi, a TV or projector with HDMI, and a
-  Bluetooth speaker with a volume limit to protect the café below.
-- **Access:** a keypad or smart lock, so renters can get in after hours without
-  staff.
+### Hours
+- **Staffed:** daily **3pm–9pm**. Start Mon–Sat and add Sunday once demand is
+  clear.
+- **Members only, key code:** 24/7.
+- **Before 3pm:** members only (quiet work while the café is open). The coffee
+  bar isn't selling, so there's no competition.
 
----
-
-## 6. Partnership With Sweet Sage
-
-Put this in writing with the café owner:
-- **Catering menu** for Loft events, with a revenue split or referral fee.
-  Sweet Sage closes at 3pm, so most evening and weekend events would need
-  **pre-ordered trays picked up before close** (drinks, pastries, crêpe or
-  breakfast-burrito bars). A paid after-hours catering option is another choice
-  if the café wants the extra business.
-- **Bags of Sweet Sage beans** as coworking perks, party favors, or sold at the
-  Loft.
-- **Coffee perk** for coworking members, billed to the Loft at a wholesale rate.
-- **Cross-promotion:** a sign or menu board downstairs, and a QR code on café
-  tables that links to booking.
-- **Hours overlap is small:** the café closes at 3pm, and Loft events mostly
-  run after that, so noise conflicts mainly affect daytime coworking and
-  classes. Parking is free for evening events.
-- **Shared rules:** quiet hours when the café is busy, trash and restroom use,
-  and who handles problems with renters.
-- **Sweet Sage's own use:** the café can book the room for its own events
-  (tastings, classes) at a partner rate.
+### Making 24/7 access safe and workable
+- **Smart lock with individual codes** (for example Latch, Schlage Encode, or
+  Kisi/Brivo) so each member's code can be turned off on its own and every
+  entry is logged.
+- **Security cameras** covering the entrance, register, and book areas, with a
+  posted notice.
+- **After 9pm:** lock the register and coffee bar. Keep high-value books in a
+  locked case, or run an honor shelf with a QR-code payment.
+- **Member agreement:** no guests without approval, no sleeping overnight, quiet
+  rules, damage responsibility, and code-sharing means losing the membership.
+- **Approvals:** the landlord and your insurance company both have to OK 24/7
+  unattended access. Check the building's street door too, since it may be
+  shared with the café **[VERIFY]**.
 
 ---
 
-## 7. Legal, Licensing, and Building (Arizona / Mohave County)
+## 6. The Computer and Print Station
+
+- **4 computers** (refurbished business desktops or mini-PCs, about $300–600
+  each) with keyboards, monitors, and headphones.
+- **Guest-kiosk setup:** locked-down accounts that **wipe at logout**, so the
+  next user can't see the last person's data. Add a basic content filter.
+- **Printer:** a business laser multifunction (print, scan, copy) with pay-per-
+  page through the POS or a print-release app.
+- **Uses:** job applications, résumés, school work, online classes, remote
+  work, printing documents and tickets, and a place for people without home
+  internet.
+- **Business-grade internet** (the town's options are limited, so check speeds
+  **[VERIFY]**), with a **separate guest Wi-Fi network** from the one your
+  register uses.
+
+---
+
+## 7. Licensing, Permits, and Building (Arizona / Mohave County)
 
 | Step | Where | Notes |
 |---|---|---|
-| Form an LLC | Arizona Corporation Commission (azcc.gov) | Protects your personal assets. Arizona also requires a publication step for new LLCs **[VERIFY current rule]**. |
-| Get an EIN | IRS (irs.gov), free | You need it for a bank account and for payroll later. |
-| Transaction Privilege Tax (TPT) license | Arizona Dept. of Revenue (azdor.gov / AZTaxes.gov) | Arizona's sales tax. Ask whether room rentals and memberships are taxable in your case **[VERIFY]**. |
-| Town business license | Town of Colorado City | Also ask about zoning and signage. |
-| **Change of use / occupancy review** | Town building department or Mohave County **[VERIFY which]** | **This is the biggest risk (see below).** |
-| Fire inspection | Local fire district | Occupancy limit sign, extinguishers, exit signs, emergency lighting. |
-| Business insurance | Local agent | General liability (events), property, and host liquor liability if alcohol is ever allowed. |
-| Lease | Landlord | Get the permitted use in writing, and ask who pays for any code upgrades. |
+| Form an LLC | Arizona Corporation Commission (azcc.gov) | Also check the publication requirement **[VERIFY]**. |
+| EIN | IRS (irs.gov), free | For the bank account and payroll. |
+| **TPT (sales tax) license** | Arizona Dept. of Revenue (AZTaxes.gov) | Books, snacks, coffee, and printing are taxable retail. Ask how memberships are taxed **[VERIFY]**. |
+| Town business license | Town of Colorado City | Also ask about zoning for retail and food, and about signage. |
+| **Food establishment permit** | **Mohave County Environmental Health** | Needed for brewing and selling coffee (models A and B). Prepackaged-only snacks may fall under a lower tier. Ask about a **hand sink and a utensil-washing sink** upstairs **[VERIFY]**. |
+| Change of use (office to retail) | Town building department or Mohave County **[VERIFY which]** | Office to retail and lounge is usually simpler than a party venue. Keep occupancy modest. |
+| Fire inspection | Local fire district | Extinguisher, exit signs, emergency lighting, posted occupancy. |
+| Insurance | Local agent | General liability, business property (books and computers), and coverage that allows unattended 24/7 member access. |
+| **Written agreements** | Landlord and Sweet Sage | The lease must allow retail, food, and 24/7 access. The partnership covers coffee, no-compete rules, and shared spaces (§3). |
 
-### Building-code risk, the item to check first
-Using an upstairs room for **gatherings of people** (parties, classes) can be
-classified as **Assembly occupancy**, which has stricter rules than an office:
-- **Exits:** once the posted occupancy reaches about **50 people or more**, a
-  second exit (a second stairway) is generally required. Keeping the posted
-  limit **below 50** often lets one stairway be enough **[VERIFY with the
-  building official]**.
-- **Accessibility (ADA):** an upstairs space without an elevator may be allowed
-  in a small building. Even so, plan an accessible alternative, such as booking
-  a ground-floor spot at Sweet Sage for a guest who can't use stairs.
-- **Fire safety:** sprinklers or alarm requirements depend on the building.
-
-**Before you sign a lease or buy anything, meet the town building official
-with the floor plan** and ask: *"What would it take to use this space for
-gatherings of up to 49 people and for coworking?"*
+**The permit to check first is the food permit for coffee.** If the county
+requires a full sink setup upstairs and there's no plumbing, then either use
+**model C** (Sweet Sage's permit) or sell only **bottled and canned coffee drinks
+from Sweet Sage** until plumbing is sorted out.
 
 ---
 
@@ -205,116 +218,128 @@ gatherings of up to 49 people and for coworking?"*
 
 | Item | Low | High |
 |---|---|---|
-| LLC, licenses, and permits | $200 | $800 |
-| First month's rent ($450) and security deposit [VERIFY deposit] | $900 | $1,350 |
-| Light remodel: paint, lighting, flooring touch-up | $1,000 | $6,000 |
-| Fire/life-safety items (exit signs, extinguishers, emergency lights) | $300 | $1,500 |
-| Tables (10–12 folding/nesting) | $600 | $2,000 |
-| Chairs (50 stackable) | $1,000 | $3,000 |
-| Coworking desks and chairs (4–6 seats) | $800 | $2,500 |
-| Divider or curtain wall | $200 | $1,500 |
-| TV or projector, speaker, Wi-Fi equipment | $600 | $2,000 |
-| Smart lock and security camera | $250 | $700 |
-| Kitchenette: fridge, counter, cart | $300 | $2,000 |
-| Decor, signage, party supplies | $400 | $1,500 |
-| Website, booking software (first year), photos | $200 | $1,000 |
-| Insurance (first payment) | $300 | $1,000 |
+| First month's rent ($450) and deposit | $900 | $1,350 |
+| LLC, TPT, town license, food permit, and inspection | $300 | $1,200 |
+| Starting book inventory (used lots plus some new titles) | $1,500 | $5,000 |
+| Shelving | $800 | $3,000 |
+| Lounge seating and tables | $1,000 | $4,000 |
+| MG Mindset display and store signage | $300 | $1,500 |
+| 4 computers, monitors, headphones | $1,600 | $4,000 |
+| Printer, scanner, and copier | $250 | $800 |
+| Coffee setup: batch brewer, airpots, grinder (or borrowed from Sweet Sage) | $400 | $2,500 |
+| Snack rack and mini fridge | $200 | $800 |
+| POS (tablet and card reader) | $300 | $800 |
+| Smart lock and cameras | $400 | $1,500 |
+| Insurance (first payment) | $400 | $1,200 |
+| Website, Google profile, launch marketing | $200 | $1,000 |
 | Cash reserve (3 months of fixed costs) | $3,000 | $6,000 |
-| **Total** | **≈ $10,000** | **≈ $33,000** |
+| **Total** | **≈ $11,500** | **≈ $34,700** |
+
+**Ways to start cheaper:** buy used shelving and furniture, start with 2
+computers, borrow Sweet Sage's spare brewer, and build inventory through
+store-credit trade-ins.
 
 ---
 
-## 9. Monthly Numbers (rent from the listing; other costs estimated)
+## 9. Monthly Numbers (estimates)
 
-**Fixed costs (example):**
+**Fixed costs:**
 
 | Item | Monthly |
 |---|---|
 | Rent (from the listing) | $450 |
-| Utilities and internet (may be partly included in rent [VERIFY]) | $250 |
-| Insurance | $80 |
-| Booking software, phone, subscriptions | $60 |
-| Cleaning supplies and restocking | $100 |
-| **Total** | **≈ $940** |
+| Utilities and business internet (may be partly included in rent [VERIFY]) | $250 |
+| Insurance | $100 |
+| POS, lock, camera, and software subscriptions | $60 |
+| Cleaning and paper goods | $80 |
+| Printer supplies and computer upkeep | $50 |
+| **Total** | **≈ $990** |
 
-**Revenue scenarios:**
+**Gross profit by income source** (what's left after the cost of the books,
+coffee, and snacks sold):
 
 | | Slow | Target | Strong |
 |---|---|---|---|
-| Party/event bookings per month (avg $175) | 4 → $700 | 8 → $1,400 | 14 → $2,450 |
-| Hourly rentals (classes, meetings) at avg $30 | 15 hrs → $450 | 35 hrs → $1,050 | 60 hrs → $1,800 |
-| Coworking members at $100 | 2 → $200 | 5 → $500 | 10 → $1,000 |
-| Day passes at $12 | 10 → $120 | 25 → $300 | 40 → $480 |
-| **Monthly revenue** | **$1,470** | **$3,250** | **$5,730** |
-| **After fixed costs** | **≈ $530** | **≈ $2,310** | **≈ $4,790** |
+| Books sold (avg $8, about 75% margin on used) | 60 → $360 | 150 → $900 | 300 → $1,800 |
+| Coffee cups (about $1.50 kept per cup after beans, cups, and the split) | 150 → $225 | 390 (15/day) → $585 | 700 → $1,050 |
+| Snacks (40% margin) | $100 sales → $40 | $300 → $120 | $600 → $240 |
+| Standard members at $30 | 5 → $150 | 15 → $450 | 25 → $750 |
+| 24/7 members at $75 | 3 → $225 | 10 → $750 | 20 → $1,500 |
+| Computer time and printing | $50 | $150 | $300 |
+| **Gross profit** | **$1,050** | **$2,955** | **$5,640** |
+| **After fixed costs** | **≈ $60** | **≈ $1,965** | **≈ $4,650** |
 
-**Break-even:** about **$940 a month**. For example, 4 events plus 8 rental
-hours, or, in the Loft Lite version with no events, 4 coworking members plus
-about 18 rental hours. Even the slow scenario covers costs.
-
-**"Loft Lite" scenario (a small room, no big parties):** 4 members ($400), 15
-day passes ($180), and 30 hours of class and meeting rentals at $25 ($750) come
-to **≈ $1,330 a month, about $390 above costs**. That leaves a thin but low-risk
-margin that grows as regular renters come in.
+**Break-even is about $990 a month in gross profit.** For example, 5 standard
+and 4 24/7 members ($450), 60 books ($360), and 120 coffees ($180).
+**Memberships are the most important number:** each 24/7 member covers about 8%
+of the monthly fixed costs.
 
 ---
 
 ## 10. Marketing (small-town, low cost)
 
-1. **Sign and QR code in Sweet Sage.** This is the most valuable channel.
-2. **Open house and launch party** with free coffee from Sweet Sage. Invite
-   families, church and community leaders, teachers, and local business owners.
-3. **Facebook page and local groups.** Short Creek, Colorado City, and Hildale
-   community groups are where locals look.
-4. **Google Business Profile** so "event space near me" and "coworking" searches
-   find you, including visitors passing through.
-5. **Founding-member deal:** the first 10 coworking members get a locked-in
-   lower rate.
-6. **Instructor partnerships:** give the first month free to 2–3 local teachers
-   (sewing, piano, art). Their students become your future renters.
-7. **Photo gallery** of the room set up for a party, a class, and coworking.
+1. **Sweet Sage cross-promotion.** A "Books & coffee upstairs, open until 9"
+   sign in the café, and a flyer or bookmark with each bag of beans. This is the
+   most valuable channel.
+2. **Founding-member offer:** the first 25 members lock in a lower rate for
+   life. Sell memberships before opening day to prove demand.
+3. **Book trade-in launch week:** "Bring 5 books, get store credit plus a free
+   coffee." It builds inventory and customers at the same time.
+4. **Weekly events** that fit the concept: a book club (MG Mindset picks and
+   classics), a quiet reading hour, goal-setting nights, study nights during the
+   school year, and author talks.
+5. **Facebook, Marketplace, and local groups** (Colorado City, Hildale, Short
+   Creek): new arrivals posts and event posts.
+6. **Google Business Profile** listing "bookstore," "used books," "printing,"
+   and "coffee open late" for travelers on SR-389 looking for something open
+   after 3pm.
 
 ---
 
-## 11. Operations
-
-- **Online booking and payment** (for example Square Appointments, Peerspace,
-  Skedda, or Calendly with Stripe), with deposits and cancellation rules
-  collected upfront.
-- **Rental agreement** covering capacity, noise and quiet hours, cleanup, no
-  open flames, decorations, alcohol policy, damage, and a liability waiver.
-- **Checklist** of turnover steps after each booking. Photograph the room
-  before and after.
-- **Staffing:** start owner-operated with self-check-in by keypad. Add a
-  part-time event host once you have more than 10 events a month.
-- **Hours:** coworking weekdays 7am–5pm, opening with the café so members can
-  grab coffee on the way up. Events by booking, ending by 10pm, and mostly
-  after the café closes at 3pm.
-
----
-
-## 12. Launch Timeline
+## 11. Launch Timeline
 
 | Week | Tasks |
 |---|---|
-| 1 | Tour the space, get the floor plan and lease terms, talk to the Sweet Sage owner about the partnership |
-| 2 | **Meet the building official about the change of use and occupancy (§7).** Get insurance quotes. |
-| 3 | Decide go or no-go. Form the LLC, get the EIN, open a bank account, sign the lease with the use written in. |
-| 4–6 | Permits, paint and light remodel, safety items, TPT and town licenses |
-| 6–7 | Furniture, tech, booking system, website and Google profile, photos |
-| 8 | Fire inspection, soft opening with friends and family, **open house** |
-| 9+ | Track bookings weekly and adjust prices and the event/coworking mix after 90 days |
+| 1 | Tour and measure the space. Ask the landlord the §13 questions. **Meet the Sweet Sage owner** and pick a coffee model (§3). |
+| 2 | **Call Mohave County Environmental Health about coffee** (§7) and the town about retail use. Get insurance quotes. |
+| 3 | Decide go or no-go. LLC, EIN, bank account, and TPT license. Sign the lease and the written Sweet Sage agreement. |
+| 3–6 | Start buying books (estate sales, lots, trade-ins). Order shelving and furniture. Presell founding memberships. |
+| 5–7 | Install shelves, lounge, coffee bar, computers and printer, smart lock and cameras. Set up the POS. |
+| 7–8 | Inspections, soft opening, then a **grand opening with Sweet Sage** (a joint coffee special). |
+| 9+ | Track books sold, cups, and members weekly. Adjust hours, prices, and categories after 90 days. |
+
+---
+
+## 12. Name Ideas
+
+- The Loft at Sweet Sage
+- Upstairs Books & Brew
+- Sage & Page
+- The Upper Room Books *(fits the spiritual focus)*
+- Second Story Books *(a pun on "upstairs" and "second chance for used books")*
+- Mindset Loft *(ties in MG Mindset)*
 
 ---
 
 ## 13. Questions to Answer First
 
-- [ ] **Square footage** (this decides the full Loft or Loft Lite), layout, and number of stairways and exits upstairs
-- [ ] Rent is $450. Also: the deposit, whether utilities and internet are included, whether the landlord allows **hourly rentals, classes, and events** (not just one office tenant), whether subleasing is allowed, and whether the furniture stays
-- [ ] Ask whether the landlord would allow a 6-month trial lease with an option to renew (the listing says "open to other ideas")
-- [ ] Restrooms upstairs, or shared with Sweet Sage?
-- [ ] Current approved use of the space, and what the town requires for assembly use (§7)
-- [ ] Sound between floors (test with music playing while someone listens in the café)
-- [ ] Parking for a 30–40 person event
-- [ ] Is the Sweet Sage owner on board with catering, cross-promotion, and quiet hours?
-- [ ] What do existing local venues charge? (Adjust §4 pricing to match.)
+**Landlord:**
+- [ ] Square footage and layout. Is there a restroom and a sink upstairs? How do
+      you get in (stairs, street door)?
+- [ ] Are utilities and internet included in the $450? What's the deposit?
+- [ ] Is **retail, coffee service, and 24/7 key-code access** allowed? Can you
+      install a smart lock and cameras?
+- [ ] Is a 6-month trial lease with an option to renew possible? Does the
+      furniture stay?
+
+**Sweet Sage owner:**
+- [ ] Do they like the idea? Which coffee model (A, B, or C)?
+- [ ] Wholesale price for beans. Would they lend or sell a batch brewer?
+- [ ] What should be off-limits upstairs (the no-compete list)?
+- [ ] Shared entrance, restroom, trash, and cleaning.
+
+**County and town:**
+- [ ] Which food permit is needed for brewed coffee and prepackaged snacks, and
+      what sinks are required?
+- [ ] Is anything needed to change the use from office to retail and lounge?
+- [ ] Do Arizona's secondhand-dealer rules apply to buying used books?
